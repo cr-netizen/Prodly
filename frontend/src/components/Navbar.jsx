@@ -8,7 +8,7 @@ function Navbar() {
           MyApp
         </h1>
 
-        <div className="flex gap-4">
+        <div className="flex flex-wrap gap-4">
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
           <Link to="/dashboard">Dashboard</Link>
