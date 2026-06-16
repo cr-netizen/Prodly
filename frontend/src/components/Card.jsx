@@ -1,15 +1,22 @@
-function Card({ title, description }) {
+function Card({ title, description, image }) {
   return (
     <div className="border p-4 rounded shadow">
-      <h2 className="text-xl font-bold">
+      <img
+        src={image}
+        alt={title}
+        className="w-full rounded"
+      />
+
+      <h2 className="text-xl font-bold mt-2">
         {title}
       </h2>
 
-      <p className="mt-2">
-        {description}
-      </p>
+      <p>{description}</p>
+
+      <button className="bg-blue-500 text-white px-3 py-1 rounded mt-2">
+        Learn More
+      </button>
     </div>
   );
 }
-
 export default Card;
