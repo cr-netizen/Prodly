@@ -1,11 +1,24 @@
 /**
  * Loader Component
+ * Props: None
  */
 
 function Loader() {
+
   return (
-    <div className="animate-spin w-8 h-8 border-4 border-blue-500 rounded-full border-t-transparent"></div>
+
+    <div className="flex justify-center items-center h-screen">
+
+      <h2 className="text-2xl font-bold">
+
+        Loading...
+
+      </h2>
+
+    </div>
+
   );
+
 }
 
 export default Loader;
