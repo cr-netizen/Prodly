@@ -23,7 +23,7 @@ An AI-powered product description generator that helps users create, manage, and
 
 ### AI Feature
 
-![AI Feature](screenshots/ai-feature.png)
+![AI Feature](screenshots/ai-generation.png)
 
 ### Login Page
 
