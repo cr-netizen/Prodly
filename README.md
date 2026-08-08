@@ -11,16 +11,28 @@ An AI-powered product description generator that helps users create, manage, and
 
 **YouTube Unlisted:** To be added after recording.
 
-## Screenshots
+## 📸 Screenshots
 
-Screenshots will be added here after the final UI recording is prepared.
+### Home Page
 
-Recommended screenshots:
+![Home](screenshots/home.png)
 
-1. Home page
-2. Dashboard with saved products
-3. AI product description generation
-4. Login / registration flow
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### AI Feature
+
+![AI Feature](screenshots/ai-feature.png)
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Sigup Page
+
+![Signup](screenshots/signup.png)
+
 
 ## Features
 
