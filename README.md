@@ -7,9 +7,6 @@ An AI-powered product description generator that helps users create, manage, and
 - **Frontend:** https://prodly-eta.vercel.app/
 - **Backend API:** https://prodly.onrender.com/
 
-## Demo Video
-
-**YouTube Unlisted:** To be added after recording.
 
 ## 📸 Screenshots
 
