@@ -1,7 +1,7 @@
 const steps = [
   {
     title: "Add your product",
-    body: "Name it, and note the ingredients, weight, and features that matter — the same details you'd put on a spec sheet.",
+    body: "Name it, and note the ingredients, weight, and features that matter, the same details you’d use for your product listing.",
   },
   {
     title: "Pick a tone",
@@ -16,7 +16,7 @@ const steps = [
 const values = [
   {
     title: "Built for the catalog, not just one listing",
-    body: "Every product you write stays saved in your dashboard, so restocks, seasonal SKUs, and new lines don't mean starting from a blank page again.",
+    body: "Every product you write stays saved in your dashboard, so restocks, new products, and new lines don't mean starting from a blank page again.",
     accent: "text-brand border-brand/30 bg-brand/10",
   },
   {
@@ -39,13 +39,8 @@ function About() {
         Product copy shouldn't be the bottleneck.
       </h1>
       <p className="mt-5 text-ink-soft dark:text-ink-night-soft">
-        Prodly started as a tool for a food processing team that needed to
-        list products on Amazon and other marketplaces but didn't have the
-        time or writing capacity to do it well. Every new SKU meant another
-        blank description field, another wait on a copywriter, another
-        listing that shipped late. Prodly closes that gap: give it your
-        product's name, ingredients, weight, and features, and it drafts a
-        description that's ready — or close to ready — for the listing page.
+        Prodly is an AI-powered product description generator designed to help businesses create clear, professional product descriptions quickly.
+
       </p>
 
       <div className="mt-12 space-y-6">
